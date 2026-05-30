@@ -59,7 +59,7 @@ database.db
    PORT=3000
    JWT_SECRET=supersecretkey123
 4. Starta servern
-   node server.js
+   node server.js eller npm start
 
 Servern startar då på:
 
